@@ -1,0 +1,17 @@
+{
+  "name": "zaslon-interface",
+  "owner": {
+    "name": "ZASLON / Кальтер"
+  },
+  "plugins": [
+    {
+      "name": "zaslon-interface-kit",
+      "source": "./",
+      "description": "Product interface composition and motion skill",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "description": "Original ZASLON interface and motion skills"
+  }
+}
