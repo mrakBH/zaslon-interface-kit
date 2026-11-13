@@ -35,6 +35,14 @@ npx skills add mrakBH/zaslon-interface-kit --skill zaslon-interface-motion
 
 Ссылка передаёт контекст; сама по себе она ничего не устанавливает.
 
+## В работе: ZASLON
+
+| До | После |
+|---|---|
+| ![Главная до](https://zelon.org/assets/interface-kit/home-before.jpg) | ![Главная после](https://zelon.org/assets/interface-kit/home-after.jpg) |
+
+[Разбор со скриншотами](https://zelon.org/blog/zaslon-motion-redesign-before-after/) · [UI SDK и поведение интерфейса](https://zelon.org/blog/ui-sdk-agent-interface-behaviors/)
+
 ## Границы
 
 Это оригинальные инструкции ZASLON, **не форк и не официальный продукт Vercel**. UI SDK — отдельная beta-библиотека поведения под Apache-2.0. В этом пакете её код не распространяется. В ZASLON runtime UI SDK не установлен: текущая анимация реализована CSS и GSAP. Не обещаем конверсию или 60 fps без измерений.

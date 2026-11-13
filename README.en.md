@@ -29,6 +29,14 @@ For Claude Code:
 
 You can also give your agent this repository URL and ask it to read the skill. Sharing a link provides context; it does not install software.
 
+## Applied to ZASLON
+
+| Before | After |
+|---|---|
+| ![Before](https://zelon.org/assets/interface-kit/home-before.jpg) | ![After](https://zelon.org/assets/interface-kit/home-after.jpg) |
+
+[Case study (Russian)](https://zelon.org/blog/zaslon-motion-redesign-before-after/)
+
 ## Provenance and limits
 
 An original ZASLON toolkit, not an official Vercel product or fork. UI SDK is a separate beta behavior library under Apache-2.0; its source is not bundled. The ZASLON marketing implementation uses CSS and GSAP, not the UI SDK runtime. Slidshift assets and copy are not included.
